@@ -74,7 +74,7 @@ namespace PPT_juego
             }
             if ((op == 1 && juego == 3) || (op == 2 && juego == 1) || (op == 3 && juego == 2))
             {
-                lb_mensaje.Text = juego.ToString("GANASTE");
+                lb_mensaje.Text = juego.ToString("GANASTES");
                 lb_mensaje.Visible=true;
                 //MessageBox.Show("GANASTE");
                 
