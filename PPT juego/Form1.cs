@@ -81,7 +81,7 @@ namespace PPT_juego
             }
             else if ((op == 1 && juego == 2) || (op == 2 && juego == 3) || (op == 3 && juego == 1))
             {
-                lb_mensaje.Text = juego.ToString("PERDISTE");
+                lb_mensaje.Text = juego.ToString("PERDISTES");
                 lb_mensaje.Visible = true;
                 //MessageBox.Show("PERDISTE");
             }
