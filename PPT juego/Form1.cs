@@ -87,7 +87,7 @@ namespace PPT_juego
             }
             else
             {
-                lb_mensaje.Text = juego.ToString("EMPATE");
+                lb_mensaje.Text = juego.ToString("EMPATES");
                 lb_mensaje.Visible = true;
                 //MessageBox.Show("EMPATE");
             }
