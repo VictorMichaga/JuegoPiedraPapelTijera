@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\PPT juego\PPT juego\bin\Debug\PPT juego.exe.config
+C:\Users\victo\source\repos\PPT juego\PPT juego\bin\Debug\PPT juego.exe
+C:\Users\victo\source\repos\PPT juego\PPT juego\bin\Debug\PPT juego.pdb
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT_juego.Form1.resources
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT_juego.Properties.Resources.resources
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.exe
+C:\Users\victo\source\repos\PPT juego\PPT juego\obj\Debug\PPT juego.pdb
